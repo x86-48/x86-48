@@ -1,16 +1,22 @@
-### Hi there 👋
+___
+#*x86_48* 
+##*- f bin* 
+___
+###Languages I work with:
+- *C*
+- *assembly*
+- *c++*
+- *python*
+- *html*
+- *css*
+- *java*
+___
+###Socials
+- [Github](https://www.github.com/x86-48)
+- [Twitter](https://twitter.com/x86_48)
+- [Discord](https://discord.gg/vdUR8DMnSB)
 
-<!--
-**x86-48/x86-48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+###Current Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-AOS(and all that comes with that) :)
