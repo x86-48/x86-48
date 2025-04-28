@@ -1,7 +1,7 @@
 ___
 # *x86_48* 
 ## *- f bin* 
-### *she/her*
+### *he/they*
 ___
 ### Languages I work with:
 - *C*
